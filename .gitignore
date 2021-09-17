@@ -1,3 +1,4 @@
 .DS_Store
 service_key.js
 node_modules/
+package-lock.json

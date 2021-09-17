@@ -1,4 +1,4 @@
-* use Node.js in Max/MSP
+* Node.js in Max/MSP examples
   
   Max/MSP 에서 [[https://docs.cycling74.com/max8/refpages/node.script][node.script]] 오브젝트를 사용하는 방법을 알아봅시다.
   
