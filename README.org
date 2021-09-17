@@ -1,0 +1,26 @@
+* use Node.js in Max/MSP
+  
+  Max/MSP 에서 [[https://docs.cycling74.com/max8/refpages/node.script][node.script]] 오브젝트를 사용하는 방법을 알아봅시다.
+  
+** 사용법
+   현재 <2021-09-17 Fri> 3개의 예제가 포함되어 있습니다.
+   모든 예제는 [[https://github.com/byulparan/node-for-max/blob/main/http.maxpat][http.maxpat]] 패치를 통해서 진행됩니다.
+   
+   - [[https://github.com/byulparan/node-for-max/blob/main/naver.js][naver.js]] - 네이버 대문 페이지에서 현재 이슈를 긁어옵니다.
+   - [[https://github.com/byulparan/node-for-max/blob/main/airkorea.js][airkorea.js]] - [[https://www.data.go.kr/][공공데이터포털]] 에서 [[https://www.data.go.kr/iim/api/selectAPIAcountView.do][대기오염정보]] 서비스 요청 후 처리
+   - [[https://github.com/byulparan/node-for-max/blob/main/covid.js][covid.js]] - [[https://www.data.go.kr/][공공데이터포털]] 에서 [[https://www.data.go.kr/iim/api/selectAPIAcountView.do][코로나 19 시·도발생 현황]] 서비스 요청 
+
+   2,3 번 예제를 실행하기 위해서는
+   1) 공공데이터포털에 가입을 하고
+   2) 관련 서비스 신청을 해야합니다.
+      
+   [[https://www.google.com/search?rlz=1C5CHFA_enKR935KR935&sxsrf=AOaemvK9vVOIPjpIKauRs-kOfd4RvGiD3Q:1631873916709&q=%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8F%AC%ED%84%B8+api+%EC%82%AC%EC%9A%A9%EB%B2%95&sa=X&ved=2ahUKEwj8iv6I5IXzAhUF4WEKHcPlA-IQ1QJ6BAgZEAE&biw=1440&bih=764&dpr=2][구글]] 에서 관련 내용을 검색해보시면 어렵지 않게 진행 하실 수 있을 겁니다.
+   
+      
+
+      
+
+
+      
+      
+   
